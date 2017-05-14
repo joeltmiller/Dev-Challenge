@@ -19,6 +19,10 @@ Implement authentication to allow the user to sign in to see the games they curr
 
 ### Resources
 
-I suggest taking a look at the quickstart guide [here](https://www.giantbomb.com/forums/api-developers-3017/quick-start-guide-to-using-the-api-1427959/).
+You can find the quickstart guide [here](https://www.giantbomb.com/forums/api-developers-3017/quick-start-guide-to-using-the-api-1427959/).
 
 You can find a full list of API features [here](https://www.giantbomb.com/api/documentation).
+
+### Questions
+
+Don't hesitate to reach out with any questions. Remember we are more focused on seeing your development process than checking off a list of requirements, so be sure you are able to speak to your code and your thoughts behind it.
