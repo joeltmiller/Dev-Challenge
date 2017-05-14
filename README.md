@@ -1,7 +1,7 @@
 # Gravie Software Engineer Challenge    
 
 ### Time Box
-6-8 Hours
+`6-8` Hours
 
 ## Synopsis
 
