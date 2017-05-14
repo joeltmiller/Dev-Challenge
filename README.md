@@ -12,8 +12,10 @@ For this challenge you will implement the Giant Bomb API to create an applicatio
 You can get started by signing up for an API key [here](https://www.giantbomb.com/api/).
 
 ## Hard Mode
+Implement authentication to allow the user to sign in to see the games they currently have checked out.
 
 ## Pro Mode
+
 
 ### Resources
 
